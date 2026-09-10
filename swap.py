@@ -1,8 +1,8 @@
-# swapping problem
+# swapping problem without Temp variable
 # Problem 6
 a = 12
 b = 10
-a = a +b
+a = a + b
 b = a - b
 a = a - b
 print (a , b)

@@ -1,7 +1,7 @@
 # problem 1
 # num = int(input("Enter a Number: "))
 # condition = num % 2
-# result = condition == 0 and not condition == 1
+# print( condition == 0 and not condition == 1)
 
 # Problem 2
 # age = int(input("Enter your Age: "))
